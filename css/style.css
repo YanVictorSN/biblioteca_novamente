@@ -46,6 +46,7 @@ h2{
 }
 .instrucao {
     font-size:40px;
+    color: rgb(29, 8, 145);
 }
 section a {
     padding: 20px;
@@ -102,6 +103,7 @@ h5 {
 .lists {
     font-size:25px;
     padding: 10px;
+    margin-left: 40px;
 }
 footer {
     display: flex;
