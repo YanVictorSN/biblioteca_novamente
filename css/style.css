@@ -105,6 +105,9 @@ h5 {
     padding: 10px;
     margin-left: 40px;
 }
+table{
+    padding: 6px;
+}
 footer {
     display: flex;
     justify-content: center;
